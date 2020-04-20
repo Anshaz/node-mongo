@@ -1,0 +1,24 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anshaz/node-mongo.git"
+  },
+  "author": "Anshaj Upadhyaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anshaz/node-mongo/issues"
+  },
+  "homepage": "https://github.com/Anshaz/node-mongo#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.0.10"
+  }
+}
